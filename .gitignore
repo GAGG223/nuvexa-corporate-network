@@ -1,0 +1,17 @@
+# Arquivos temporários de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Arquivos temporários do LaTeX/pandoc
+*.aux
+*.log
+*.out
+*.toc
+
+# Backups do Packet Tracer
+*.pkt.bak
+*.bak
+
+# Arquivo-guia temporário (não precisa no repositório)
+EVIDENCE/_COLOQUE-OS-PRINTS-AQUI.txt
