@@ -1,17 +1,19 @@
-# Arquivos temporários de sistema
+# Repositório enxuto: mantém apenas README, PDF e o arquivo .pkt
+
+# Pastas de trabalho (mantidas localmente, fora do repositório)
+DOCUMENTATION/
+EVIDENCE/
+DIAGRAMS/
+
+# Fonte do PDF (mantido local)
+DOCUMENTACAO-COMPLETA.md
+
+# Temporários de sistema e build
 Thumbs.db
 desktop.ini
 .DS_Store
-
-# Arquivos temporários do LaTeX/pandoc
 *.aux
 *.log
 *.out
 *.toc
-
-# Backups do Packet Tracer
-*.pkt.bak
 *.bak
-
-# Arquivo-guia temporário (não precisa no repositório)
-EVIDENCE/_COLOQUE-OS-PRINTS-AQUI.txt
